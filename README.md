@@ -1,5 +1,5 @@
 # Advanced Data Science Projects
-The repository contains projects from popular datasets, focussing primarily on tree and ensemble models. There is ample spread of supervised and semi-supervised models, with clustering and probabilistic models thrown in. The focus is not limited to mere modelling but also in exploratory data anallysis and visualization. On modelling side primarily bagging and boosting models are considered. For easy visualization, notebooks are used in every project within the repository.
+The repository contains projects using popular datasets, focussing primarily on tree and ensemble models. There is ample spread of supervised and semi-supervised models, with clustering and probabilistic models thrown in. The focus is not limited to mere modelling but also in exploratory data anallysis and visualization. On modelling side primarily bagging and boosting models are considered. For easy visualization, notebooks are used in every project within the repository.
 
 
 Some of the popular Data Science projects implemented in the repository includes fraud detection.
